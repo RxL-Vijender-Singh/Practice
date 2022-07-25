@@ -1,0 +1,4 @@
+Q.1 How a set compares wether to store value or not.
+Ans->checks address, checks type of vaue, checks the values or same or not
+
+
