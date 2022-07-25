@@ -1,5 +1,6 @@
 This is fourth commit.......
 
+This is after 6th commit, editing while on b branch.
 
 Will create a new file after this.
 
