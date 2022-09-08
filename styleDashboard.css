@@ -1,0 +1,139 @@
+.textForceOneLine{
+    width: 100px;
+    white-space:nowrap;
+    overflow:hidden;
+    text-overflow:ellipsis;
+}
+
+
+/* .imageCenter {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    height: 90%;
+    border:4px rgba(0, 255, 213, 0.937) solid ;
+  } */
+
+  .important{
+	color: lightblue;
+	font-size: 20px; 
+}
+
+.iconSetter{
+    width : 20px;
+    height: 20px;
+}
+
+
+
+
+
+body{
+    padding: 25px;
+    background:linear-gradient(#FFFFFF,#FBB454, #FFFFFF, #FFFFFF,#3CCF4E,#FFFFFF);
+}
+
+fontBold{
+    font-weight: bolder;
+}
+
+.fontLightGrey{
+    color: lightgrey;
+}
+
+.fontLightBlue{
+    color: lightblue;
+}
+
+.greyBackground{
+    background-color: lightgrey;
+}
+
+.imageSet{
+    float:left;
+    width: 150px;
+    height: 150px;
+    border:4px lightgreen solid ; 
+}
+
+.padding{
+    padding : 10px
+}
+
+.scroller{
+
+    
+
+    overflow: scroll;
+
+     /* width: 700px; */
+
+    height:350px;
+
+}
+
+th,td{
+    padding : 10px;
+}
+
+.textSmall{
+    font-size: small;
+}
+
+table{
+    border-radius: 25px;
+    background: #F5E8C7;
+    background-repeat: repeat;
+    padding: 20px;  
+    filter: alpha(opacity=40); 
+    opacity: 0.95;
+    width: max-content;
+  }
+
+th{
+    background-color: lightgray;
+    border-radius: 25px;
+    font-size: 20px;
+    padding: 10px;
+}
+
+
+
+ 
+
+  .buttonBackground{
+    background: #F5E8C7
+  }
+
+.tableSet{
+    background-color:lightgrey; 
+    filter: alpha(opacity=40); 
+    opacity: 0.95;
+    border:3px black solid;
+    
+    /* padding: 10px; */
+    /* border-radius: 10px; */
+}
+
+.navSet{
+    background-color:rgb(246, 179, 47); 
+    filter: alpha(opacity=40); 
+    opacity: 0.95;
+    /* border:3px black solid; */
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.setRight{
+    float:right; 
+}
+
+.setLeft{
+    float:left;
+}
+
+
+.box{
+    border-style: solid;
+}
